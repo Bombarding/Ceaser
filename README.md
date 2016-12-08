@@ -1,4 +1,4 @@
-# Ceaser
+# Ceaser Cipher
 The Ceaser Cipher done in Java
 
 
